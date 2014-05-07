@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Report_submit.aux
+The style file: unsrt.bst
+Database file #1: report2_submit.bib
+Missing "}" in string command---line 52 of file report2_submit.bib
+ : @string{araa = ""
+ :                  Ann. Rev. Astron. Astrophys.""} % "Ann. Rev. Astron. Astrophys."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 70 of file report2_submit.bib
+ : @string{aas = ""
+ :                 Astron. Astrophys. Suppl. Ser.""} % "Astron. Astrophys. Suppl. Ser."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 75 of file report2_submit.bib
+ : @string{astj = " "
+ :                   Astron. J.""} % "Astron. J."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 89 of file report2_submit.bib
+ : @string{apj = ""
+ :                 Astrophys. J.""} % "Astrophys. J."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 90 of file report2_submit.bib
+ : @string{apjl = " "
+ :                   Astrophys. J., Lett.""} % "Astrophys. J., Lett."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 91 of file report2_submit.bib
+ : @string{apjss = " "
+ :                    Astrophys. J., Suppl. Ser.""} % "Astrophys. J., Suppl. Ser."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 296 of file report2_submit.bib
+ : @string{mn = ""
+ :                Mon. Not. R. Astron. Soc.""} % "Mon. Not. R. Astron. Soc."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 304 of file report2_submit.bib
+ : @string{nat = " "
+ :                  Nature""} % "Nature"
+I'm skipping whatever remains of this command
+You're missing a field name---line 1081 of file report2_submit.bib
+ : 
+ : %  journal = { "Astrophys. J., Suppl. Ser."},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1126 of file report2_submit.bib
+ :     
+ :     %title = "{TOPCAT {\amp} STIL: Starlink Table/VOTable Processing Software}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1148 of file report2_submit.bib
+ : @article{2004ARA&A..42..603K
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1162 of file report2_submit.bib
+ : @article{2012ApJS..200....9G
+ :                             ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1230 of file report2_submit.bib
+ :  
+ :  % journal = {"Mon. Not. R. Astron. Soc."},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1349 of file report2_submit.bib
+ :  
+ :  % journal = {\apjs},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1399 of file report2_submit.bib
+ :   
+ :   %journal = {\mnras},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "bla"
+Warning--empty publisher in 1987gady.book.....B
+Warning--empty journal in 2004ApJS..155..271S
+Warning--empty year in 2004ApJS..155..271S
+Warning--empty title in 2005ASPC..347...29T
+Warning--empty booktitle in 2005ASPC..347...29T
+Warning--empty year in 2005ASPC..347...29T
+Warning--empty publisher in 2013heai.book.....C
+Warning--empty journal in 2013MNRAS.430..330H
+Warning--empty year in 2013MNRAS.430..330H
+Warning--empty journal in 2007ApJS..172....1S
+Warning--empty year in 2007ApJS..172....1S
+(There were 15 error messages)

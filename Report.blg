@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Report.aux
+The style file: unsrt.bst
+Database file #1: report2.bib
+Missing "}" in string command---line 52 of file report2.bib
+ : @string{araa = ""
+ :                  Ann. Rev. Astron. Astrophys.""} % "Ann. Rev. Astron. Astrophys."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 70 of file report2.bib
+ : @string{aas = ""
+ :                 Astron. Astrophys. Suppl. Ser.""} % "Astron. Astrophys. Suppl. Ser."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 75 of file report2.bib
+ : @string{astj = " "
+ :                   Astron. J.""} % "Astron. J."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 89 of file report2.bib
+ : @string{apj = ""
+ :                 Astrophys. J.""} % "Astrophys. J."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 90 of file report2.bib
+ : @string{apjl = " "
+ :                   Astrophys. J., Lett.""} % "Astrophys. J., Lett."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 91 of file report2.bib
+ : @string{apjss = " "
+ :                    Astrophys. J., Suppl. Ser.""} % "Astrophys. J., Suppl. Ser."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 296 of file report2.bib
+ : @string{mn = ""
+ :                Mon. Not. R. Astron. Soc.""} % "Mon. Not. R. Astron. Soc."
+I'm skipping whatever remains of this command
+Missing "}" in string command---line 304 of file report2.bib
+ : @string{nat = " "
+ :                  Nature""} % "Nature"
+I'm skipping whatever remains of this command
+Warning--string name "astron.j." is undefined
+--line 490 of file report2.bib
+Warning--string name "astron.j." is undefined
+--line 506 of file report2.bib
+Warning--string name "astrophys.j." is undefined
+--line 520 of file report2.bib
+Repeated entry---line 1148 of file report2.bib
+ : @article{2004ARA&A..42..603K
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1162 of file report2.bib
+ : @article{2012ApJS..200....9G
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "bla"
+Warning--empty publisher in 1987gady.book.....B
+Warning--empty journal in Haring:2004hr
+Warning--empty journal in Peng:2002ua
+Warning--empty journal in Peng:2009fu
+Warning--empty publisher in 2013heai.book.....C
+(There were 10 error messages)

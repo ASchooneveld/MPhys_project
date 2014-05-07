@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.2}{IMAGE AND DATA SELECTION}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Data}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Optical AGN and Host Galaxy Imaging}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{X-ray data}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Redshifts}{subsection.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Sample selection}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Visual inspection}{subsection.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.3}{AGN selection}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{METHODS AND FITTING}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Methods}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Motivation for parametric fitting}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.1}{AGN can visually mimic bulges}{subsection.3.2}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Distinguishing between classical bulges and pseudo-bulges}{subsection.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Parametric morphological fitting using GALFIT}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.1}{S\351rsic profile}{subsection.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Point Spread Function \(PSF\) }{subsection.3.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Background Sky}{subsection.3.3}% 18
+\BOOKMARK [2][-]{subsection.3.4}{Morphological fitting and AGN-host decomposition}{section.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.4.1}{General fitting procedures}{subsection.3.4}% 20
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Individual fitting challenges}{subsection.3.4}% 21
+\BOOKMARK [1][-]{section.4}{RESULTS}{}% 22
+\BOOKMARK [2][-]{subsection.4.1}{ GALFIT results}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.2}{Black hole masses}{section.4}% 24
+\BOOKMARK [1][-]{section.5}{DISCUSSION}{}% 25
+\BOOKMARK [2][-]{subsection.5.1}{Black hole-bulge relations}{section.5}% 26
+\BOOKMARK [2][-]{subsection.5.2}{Black hole-host relations}{section.5}% 27
+\BOOKMARK [1][-]{section.6}{CONCLUSION}{}% 28
+\BOOKMARK [1][-]{appendix.A}{Host galaxy stellar masses}{}% 29
+\BOOKMARK [1][-]{appendix.B}{Statistical significance of point sources}{}% 30
